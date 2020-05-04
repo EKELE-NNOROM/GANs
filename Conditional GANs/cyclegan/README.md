@@ -7,5 +7,8 @@
 ![](images/cyclegan.jpg)
 
 
+![](images/cycle_loss.png)
+
+
 # Generated GIF
 ![](images/402udk.gif)
