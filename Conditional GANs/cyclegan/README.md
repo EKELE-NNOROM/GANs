@@ -7,7 +7,7 @@
 ![](images/cyclegan.jpg)
 
 
-![](images/cycle_loss.png)
+![](images/cyclegan_loss.png)
 
 
 # Generated GIF
