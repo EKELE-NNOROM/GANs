@@ -1,4 +1,4 @@
-# DC GAN
+# Deep Convolutional Generative Adversarial Network
 
 An implementation of the Vanilla GAN using Convolutional Blocks on the CelebA Dataset.
 
@@ -8,3 +8,7 @@ An implementation of the Vanilla GAN using Convolutional Blocks on the CelebA Da
 
 ### Generated GIF
 ![](images/402hmc.gif)
+
+
+
+
