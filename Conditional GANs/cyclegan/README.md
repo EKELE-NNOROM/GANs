@@ -4,10 +4,21 @@
 
 
 
+
+
 ![](images/cyclegan.jpg)
 
 
+
+
+
 ![](images/cyclegan_loss.png)
+
+
+
+
+
+
 
 
 # Generated GIF
