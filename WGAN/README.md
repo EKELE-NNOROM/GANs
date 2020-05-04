@@ -9,3 +9,7 @@ The Wasserstein Generative Adversarial Network, or Wasserstein GAN, is an extens
 ## Network Architecture
 
 ![](images/wgan_network.jpeg)
+
+
+## Algorithm
+![](images/algorithm.PNG)
